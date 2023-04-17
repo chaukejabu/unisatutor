@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+
+.image1{
+    width: 100%;
+}
+
+.image2{
+    height: 200px;
+}
+
+
+.div2{
+    margin-left: 50%;
+    margin-top: 80px;
+}
